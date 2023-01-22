@@ -1,0 +1,15 @@
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\bin\Debug\net6.0\HW6_ex2_ver2.exe
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\bin\Debug\net6.0\HW6_ex2_ver2.deps.json
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\bin\Debug\net6.0\HW6_ex2_ver2.runtimeconfig.json
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\bin\Debug\net6.0\HW6_ex2_ver2.dll
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\bin\Debug\net6.0\HW6_ex2_ver2.pdb
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\obj\Debug\net6.0\HW6_ex2_ver2.csproj.AssemblyReference.cache
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\obj\Debug\net6.0\HW6_ex2_ver2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\obj\Debug\net6.0\HW6_ex2_ver2.AssemblyInfoInputs.cache
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\obj\Debug\net6.0\HW6_ex2_ver2.AssemblyInfo.cs
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\obj\Debug\net6.0\HW6_ex2_ver2.csproj.CoreCompileInputs.cache
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\obj\Debug\net6.0\HW6_ex2_ver2.dll
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\obj\Debug\net6.0\refint\HW6_ex2_ver2.dll
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\obj\Debug\net6.0\HW6_ex2_ver2.pdb
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\obj\Debug\net6.0\HW6_ex2_ver2.genruntimeconfig.cache
+D:\GB\C#\HW\HW6\HW6_ex2_ver2\obj\Debug\net6.0\ref\HW6_ex2_ver2.dll
